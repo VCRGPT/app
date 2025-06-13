@@ -1,0 +1,146 @@
+[
+  {
+    "Main Category":"Food",
+    "Types of Assistance":"Hot Meals"
+  },
+  {
+    "Main Category":"Food",
+    "Types of Assistance":"Meals"
+  },
+  {
+    "Main Category":"Food",
+    "Types of Assistance":"Meals On Wheels"
+  },
+  {
+    "Main Category":"Food",
+    "Types of Assistance":"Nutrition Support"
+  },
+  {
+    "Main Category":"Food",
+    "Types of Assistance":"Soup Kitchen"
+  },
+  {
+    "Main Category":"Food",
+    "Types of Assistance":"Food Pantry"
+  },
+  {
+    "Main Category":"Housing",
+    "Types of Assistance":"HUD-VASH"
+  },
+  {
+    "Main Category":"Housing",
+    "Types of Assistance":"Mortgage"
+  },
+  {
+    "Main Category":"Housing",
+    "Types of Assistance":"Shelter"
+  },
+  {
+    "Main Category":"Housing",
+    "Types of Assistance":"Short-term Motel Stays"
+  },
+  {
+    "Main Category":"Housing",
+    "Types of Assistance":"Homeless Assistance"
+  },
+  {
+    "Main Category":"Medical",
+    "Types of Assistance":"Addiction Recovery"
+  },
+  {
+    "Main Category":"Medical",
+    "Types of Assistance":"Behavioral Health"
+  },
+  {
+    "Main Category":"Medical",
+    "Types of Assistance":"Caregiver Support"
+  },
+  {
+    "Main Category":"Medical",
+    "Types of Assistance":"Dental"
+  },
+  {
+    "Main Category":"Medical",
+    "Types of Assistance":"Home Care Services"
+  },
+  {
+    "Main Category":"Medical",
+    "Types of Assistance":"Medical Care"
+  },
+  {
+    "Main Category":"Medical",
+    "Types of Assistance":"Mental Health"
+  },
+  {
+    "Main Category":"Medical",
+    "Types of Assistance":"PTSD Therapy"
+  },
+  {
+    "Main Category":"Medical",
+    "Types of Assistance":"Specialty Care"
+  },
+  {
+    "Main Category":"Veteran Support",
+    "Types of Assistance":"Disability Services"
+  },
+  {
+    "Main Category":"Veteran Support",
+    "Types of Assistance":"Assistive Technology For Disabled"
+  },
+  {
+    "Main Category":"Veteran Support",
+    "Types of Assistance":"Benefits Assistance"
+  },
+  {
+    "Main Category":"Veteran Support",
+    "Types of Assistance":"Childcare"
+  },
+  {
+    "Main Category":"Veteran Support",
+    "Types of Assistance":"Clothing"
+  },
+  {
+    "Main Category":"Veteran Support",
+    "Types of Assistance":"Emergency Assistance"
+  },
+  {
+    "Main Category":"Veteran Support",
+    "Types of Assistance":"Family Support"
+  },
+  {
+    "Main Category":"Veteran Support",
+    "Types of Assistance":"Legal Aid"
+  },
+  {
+    "Main Category":"Veteran Support",
+    "Types of Assistance":"Medicaid"
+  },
+  {
+    "Main Category":"Veteran Support",
+    "Types of Assistance":"Senior Support"
+  },
+  {
+    "Main Category":"Veteran Support",
+    "Types of Assistance":"SNAP (Food Stamps)"
+  },
+  {
+    "Main Category":"Veteran Support",
+    "Types of Assistance":"Support for Disabled Veterans"
+  },
+  {
+    "Main Category":"Veteran Support",
+    "Types of Assistance":"Transition Services"
+  },
+  {
+    "Main Category":"Veteran Support",
+    "Types of Assistance":"Transportation Services"
+  },
+  {
+    "Main Category":"Veteran Support",
+    "Types of Assistance":"VA Claims"
+  },
+  {
+    "Main Category":"Veteran Support",
+    "Types of Assistance":"Veteran Benefits"
+  }
+]

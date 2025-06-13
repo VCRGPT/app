@@ -1,0 +1,19 @@
+Organization Name - Column A
+Veteran Resources - Column B
+Types of Assistance - Column C
+Categories - Column D
+Website - Column E
+Email - Column F
+Phone - Column G
+Contact Name - Column H
+Contact Title - Column I
+Contact Email - Column J
+Contact Phone - Column K
+Eligibility Requirements - Column L
+Application Process - Column M
+Documents Required - Column N
+Notes - Column O
+Distance from 34470 (mi) - Column P
+Address - Column Q
+Operating Hours - Column R
+

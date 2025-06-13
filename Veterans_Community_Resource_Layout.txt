@@ -1,0 +1,71 @@
+
+Field Titles 12 pt Bold
+
+Field Content is 12 pt
+
+Exactly 2 Rows of Space between fields unless specified otherwise.
+
+Always show fields as Field Name – content, never stack content below the label.
+
+Clickable Links: Website, Email, Phone, Contact Email, Contact Phone
+
+
+Organization Name - Hide the Organization Field Name, The Organization Name should be TITLE CASED: Bold, 16 pt, Centered - (Column A)
+
+Exactly 2 Rows of space after Organization Name
+
+Veteran Resources – Bold Field Title, 12 pt, Content Italic, 12 pt - (Column B)
+
+Exactly 2 Rows of Space after Veteran Resources 
+
+4 pt. Divider - RGB: (0, 33, 71)
+
+Exactly 2 Rows of Space
+
+Types of Assistance - (Column C)
+
+Exactly 2 Rows of Space
+
+Categories - (Column D)
+
+Exactly 2 Rows of Space
+
+4 pt. Divider RGB: (178, 34, 52)
+
+Exactly 2 Rows of Space after the 4 pt. Divider
+
+Website - Column (E)
+
+Email - Column (F)
+
+Phone - Column (G)
+
+Contact Name - Column (H)
+
+Contact Title - (Column I)
+
+Contact Email - (Column J)
+
+Contact Phone - (Column K)
+
+Exactly 3 Rows of Space after 
+
+Eligibility Requirements - (Column L)
+
+Application Process - (Column M)
+
+Documents Required - (Column N)
+
+Notes - (Column O)
+
+Exactly 3 Rows of Space after Notes
+
+Distance from 34470 (mi) - (Column P)
+
+Address - Address must be hyperlinked to switch to Google Maps - (Column Q)
+
+Operating Hours - (Column R)
+
+Exactly 3 Rows of Space
+
+4 pt. Divider
